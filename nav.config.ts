@@ -54,7 +54,7 @@ const c: IConfig = {
   ],
 
   // Git 仓库地址, 没有填空字符串
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/Wuzhao6/nav',
 
   // 错误图标, 图标地址访问不了时显示
   // 建议使用网络地址，放在您任何服务器上, 减少入侵
